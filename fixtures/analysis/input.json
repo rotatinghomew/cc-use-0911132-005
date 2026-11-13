@@ -1,0 +1,1090 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-30T00:00:00+00:00",
+  "source_versions": {
+    "operations": "r1",
+    "reference": "r1"
+  },
+  "frame": [
+    {
+      "merchant_id": "merchant-0",
+      "sector": "leather",
+      "size": "large",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "merchant_id": "merchant-1",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-2",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-3",
+      "sector": "leather",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-4",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-5",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-6",
+      "sector": "leather",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-7",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-8",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-9",
+      "sector": "leather",
+      "size": "large",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-10",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-11",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-12",
+      "sector": "leather",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-13",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "merchant_id": "merchant-14",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-15",
+      "sector": "leather",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-16",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-17",
+      "sector": "leather",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-18",
+      "sector": "leather",
+      "size": "large",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-19",
+      "sector": "leather",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-20",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-21",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-22",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-23",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-24",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-25",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-26",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "merchant_id": "merchant-27",
+      "sector": "textile",
+      "size": "large",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-28",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-29",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-30",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-31",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-32",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-33",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-34",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-35",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-36",
+      "sector": "textile",
+      "size": "large",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-37",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-38",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-39",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": "2026-09-25T00:00:00+00:00"
+    },
+    {
+      "merchant_id": "merchant-40",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-41",
+      "sector": "textile",
+      "size": "small",
+      "weight": 3,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-42",
+      "sector": "textile",
+      "size": "small",
+      "weight": 1,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    },
+    {
+      "merchant_id": "merchant-43",
+      "sector": "textile",
+      "size": "small",
+      "weight": 2,
+      "open_at": "2026-08-01T00:00:00+00:00",
+      "close_at": null
+    }
+  ],
+  "turnover": [
+    {
+      "merchant_id": "merchant-0",
+      "period": "base",
+      "value": 200,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-0",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-1",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-1",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-2",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-2",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-3",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-3",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-4",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-4",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-5",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-5",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-6",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-6",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-7",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-7",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-8",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-8",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-9",
+      "period": "base",
+      "value": 200,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-9",
+      "period": "current",
+      "value": 224.0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-10",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-10",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-11",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-11",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-12",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-12",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-13",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-13",
+      "period": "current",
+      "value": 0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-14",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-14",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-15",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-15",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-16",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-16",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-17",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-17",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-18",
+      "period": "base",
+      "value": 200,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-18",
+      "period": "current",
+      "value": 224.0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-19",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-19",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-20",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-20",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-21",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-21",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-22",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-22",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-23",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-23",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-24",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-24",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-25",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-25",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-26",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-26",
+      "period": "current",
+      "value": 0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-27",
+      "period": "base",
+      "value": 200,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-27",
+      "period": "current",
+      "value": 224.0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-28",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-28",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-29",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-29",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-30",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-30",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-31",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-31",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-32",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-32",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-33",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-33",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-34",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-34",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-35",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-35",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-36",
+      "period": "base",
+      "value": 200,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-36",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-37",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-37",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-38",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-38",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-39",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-39",
+      "period": "current",
+      "value": 0,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-40",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-40",
+      "period": "current",
+      "value": null,
+      "response": "missing",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-41",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-41",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-42",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-42",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-43",
+      "period": "base",
+      "value": 10,
+      "response": "confirmed",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "unit": "CNY-1000"
+    },
+    {
+      "merchant_id": "merchant-43",
+      "period": "current",
+      "value": 11.2,
+      "response": "confirmed",
+      "available_at": "2026-10-05T00:00:00+00:00",
+      "unit": "CNY-1000"
+    }
+  ],
+  "assumption_sets": [
+    {
+      "name": "mild",
+      "missing_growth_min": -0.2,
+      "missing_growth_max": 0.1
+    },
+    {
+      "name": "severe",
+      "missing_growth_min": -1,
+      "missing_growth_max": 0
+    },
+    {
+      "name": "unbounded",
+      "missing_growth_min": -1,
+      "missing_growth_max": null
+    }
+  ],
+  "index_reference": {
+    "vintage": "published-r1",
+    "value": 1.08
+  },
+  "baseline_case_id": "market_index_bureau-demo"
+}
