@@ -18,7 +18,9 @@
 
 `fixtures/analysis/input.json` 保存业务演练数据，字段解释在 `fixtures/analysis/fields.md`。以下已核对的数据形态用于分析回归：missing_not_zero、unbounded_assumption、large_merchants。现有输入测试检查这些形态是否真实存在，不代替分析方法或数值正确性的验证。
 
-分析入口接通后执行 `bash scripts/feature_demo.sh`：先重跑现有产品，再从干净数据库计算分析、同输入重放、核对输出结构并打印完整 JSON。尚未接通时该命令会报模块不存在，不会用静态样例冒充成功。分析 ID 为 `study_id`，其余输出包括 `coverage, distribution, envelopes, tipping_points, assumptions`。方法正确性还需覆盖业务说明中的反例，结构核验不能代替统计验证。
+分析入口为 `python3 -m market_index_bureau.coverage_sensitivity --input <panel_json> --database <vintage_db> --output <sensitivity_json>`，可用 `--missing-growth-min/--missing-growth-max` 调节缺报相对变化范围（`--missing-growth-max unbounded` 表示业务未给上界）。方法为区间包络：全框指数对缺报值线性，界限在情景角点精确取得，是确定性转折点而非误差线。输出含 `study_id, coverage, distribution, composition, envelopes, tipping_points, assumptions`；底稿以 `study_id` 指纹存入 `coverage_studies` 表，同一指数版本可对应多份假设底稿，旧底稿只增不改，同输入重放返回同一记录。缺报不按随机缺失处理，情景填充值标记为假设而非观测；无上界情景的包络上界输出 `null`。
+
+执行 `bash scripts/feature_demo.sh`：先重跑现有产品，再从干净数据库计算分析、同输入重放、核对输出结构并打印完整 JSON。本地案例同时展示：全响应子样本包络收缩为点、非随机缺报下 mild/severe 情景方向可能反转、unbounded 情景保留未知上界。结构核验不能代替统计验证，方法正确性由 `tests/test_coverage_sensitivity.py` 覆盖。
 
 ## 离线环境
 
