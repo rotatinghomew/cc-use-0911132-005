@@ -19,6 +19,10 @@ class AnalysisInputsTests(unittest.TestCase):
         data = self.load_data()
         self.assertTrue(any(row['size'] == 'large' for row in data['frame']))
 
+    def test_period_boundary(self):
+        data = self.load_data()
+        self.assertTrue(data['periods']['base']['end'] == data['periods']['current']['start'])
+
     def test_source_versions_and_cutoff(self):
         data = self.load_data()
         self.assertEqual(data["schema_version"], 1)
